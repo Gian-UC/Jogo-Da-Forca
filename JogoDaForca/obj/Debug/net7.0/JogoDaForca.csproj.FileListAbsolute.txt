@@ -1,0 +1,14 @@
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\bin\Debug\net7.0\JogoDaForca.exe
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\bin\Debug\net7.0\JogoDaForca.deps.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\bin\Debug\net7.0\JogoDaForca.runtimeconfig.json
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\bin\Debug\net7.0\JogoDaForca.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\bin\Debug\net7.0\JogoDaForca.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.AssemblyInfo.cs
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\refint\JogoDaForca.dll
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.pdb
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\JogoDaForca.genruntimeconfig.cache
+C:\Users\Gian\Documents\Cursos\Projetos-VS-Code\Projetos-Em-C#\JogoDaForca\JogoDaForca\obj\Debug\net7.0\ref\JogoDaForca.dll
