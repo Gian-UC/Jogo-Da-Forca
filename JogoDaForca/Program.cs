@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Bem-vindo ao Jogo da Forca!");
-        string palavraSecreta = "C#"; // Palavra que o jogador precisa adivinhar
+        string palavraSecreta = "C#";
         char[] letrasCorretas = new char[palavraSecreta.Length];
 
         while (true)
